@@ -1,0 +1,18 @@
+   0 mkdir /home/user /home/user/start && touch /home/user/start/1.txt
+   1 echo "Start" >> 1.txt
+   2 date | cp date 1.txt 
+   3 cp date 1.txt
+   4 date >> 1.txt
+   5 cat 1.txt
+   6 mkdir /opt/task && touch /opt/tasl/start.txt | cp 1.txt start.txt
+   7 mkdir /opt/task && touch opt/task/start.txt
+   8 touch /opt/task/start.txt
+   9 cp 1.txt start.txt
+  10 ls -a /home/
+  11 ls -a /opt/
+  12 ls -a /
+  13 ls -a / | cp tail -4 start.txt
+  14 ls -a / | tail -4
+  15 echo "sys  tmp  usr  var" >> start.txt
+  16 cat start.txt
+  17 history > history_07_02_pipe_redirection.txt
